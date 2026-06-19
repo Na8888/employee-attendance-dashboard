@@ -1,5 +1,7 @@
 # Employee Attendance Analytics Dashboard
+## Dashboard Preview
 
+![Dashboard](screenshots/dashboard.png)
 Dashboard analitik kehadiran karyawan berbasis Python dan Streamlit untuk membantu proses monitoring serta visualisasi data absensi secara interaktif.
 
 ## Project Overview
